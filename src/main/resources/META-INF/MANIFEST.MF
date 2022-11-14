@@ -1,0 +1,2 @@
+Main-Class: org.moselint.MoseLint
+Name: MoseLint
